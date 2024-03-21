@@ -46,12 +46,10 @@ We compared our DreamReward with DreamFusion, ProlificDreamer, Latent-NeRF, MVDr
 
 
 ```bibtex
-@misc{liu2024makeyour3d,
-      title={Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation}, 
-      author={Fangfu Liu and Hanyang Wang and Weiliang Chen and Haowen Sun and Yueqi Duan},
-      year={2024},
-      eprint={2403.09625},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{ye2024dreamreward,
+      title={DreamReward: Aligning Human Preference in Text-to-3D Generation},
+      author={Junliang Ye and Fangfu Liu and Qixiu Li and Zhengyi Wang and Yikai Wang and Xinzhou Wang and Yueqi Duan and Jun Zhu},
+      journal={},
+      year={2024}
 }
 ```
