@@ -46,11 +46,11 @@ We compared our DreamReward with DreamFusion, ProlificDreamer, Latent-NeRF, MVDr
 
 
 ```bibtex
-@misc{liu2023sherpa3d,
-      title={Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior}, 
-      author={Fangfu Liu and Diankun Wu and Yi Wei and Yongming Rao and Yueqi Duan},
-      year={2023},
-      eprint={2312.06655},
+@misc{ye2024dreamreward,
+      title={DreamReward: Text-to-3D Generation with Human Preference}, 
+      author={Junliang Ye and Fangfu Liu and Qixiu Li and Zhengyi Wang and Yikai Wang and Xinzhou Wang and Yueqi Duan and Jun Zhu},
+      year={2024},
+      eprint={2403.14613},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
