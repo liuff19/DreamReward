@@ -1,5 +1,5 @@
 # DreamReward: Text-to-3D Generation with Human Preference
-[**Paper**]() | [**Project Page**](https://jamesyjl.github.io/DreamReward/) 
+[**Paper**](http://arxiv.org/abs/2403.14613) | [**Project Page**](https://jamesyjl.github.io/DreamReward/) 
 <p align="left">
     <a href="https://jamesyjl.github.io/">Junliang Ye</a><sup>*</sup></a><sup>1,</sup></a><sup>2</sup>, 
     <a href="https://liuff19.github.io/">Fangfu Liu</a><sup>*1</sup>, 
