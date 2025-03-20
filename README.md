@@ -30,7 +30,7 @@
 </div>
 
 <p align="center">
-    <img src="asserts/pipeline_00.png" alt="pipeline method"/>
+    <img src="assets/pipeline_00.png" alt="pipeline method"/>
 </p>
 
 ## Release
@@ -50,7 +50,7 @@
 ## Ablation
 We open-source two versions of Reward3D: **Reward3D_Scorer**, corresponding to the implementation presented in our paper, and **Reward3D_CrossViewFusion**, an extended version leveraging self-attention to enhance multi-view feature integration. **Furthermore**, we release two hyperparameter configurations of the DreamFL algorithm: DreamReward_guidance1, offering more conservative guidance, and DreamReward_guidance2, providing more aggressive guidance. Additionally, we provide ablation for further analysis and reference.
 <p align="center">
-    <img src="asserts/ablation_00.png">
+    <img src="assets/ablation_00.png">
 </p>
 
 ## Installation
