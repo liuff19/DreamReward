@@ -99,7 +99,7 @@ python launch.py --config "configs/dreamreward2.yaml" --train --gpu 0 system.gui
 bash scripts/scorer2.sh
 ```
 ## Todo
-- [ ] Release the 3DReward-training code.
+- [ ] Release the 3DReward-training code
 
 ## Acknowledgement
 Our code is based on these wonderful repos:
