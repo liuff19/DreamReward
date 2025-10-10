@@ -120,3 +120,12 @@ Also we invite you to explore our latest work [**DeepMesh**](https://zhaorw02.gi
   organization={Springer}
 }
 ```
+```bibtex
+@article{liu2025dreamreward,
+  title={DreamReward-X: Boosting High-Quality 3D Generation with Human Preference Alignment},
+  author={Liu, Fangfu and Ye, Junliang and Wang, Yikai and Wang, Hanyang and Wang, Zhengyi and Zhu, Jun and Duan, Yueqi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
+```
